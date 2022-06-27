@@ -13,6 +13,6 @@ public void printSomething()
 	    public static void main(String[] args)
 	    {
 	       
-	        Demo obj = new Demo();//WE CAN NOT INSTANTIATE ABSTRACT CLASS
+	       // Demo obj = new Demo();//WE CAN NOT INSTANTIATE ABSTRACT CLASS
 	    }                          // (We cannot create object of abstract class)
 	}
